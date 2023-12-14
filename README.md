@@ -15,7 +15,7 @@ The image text extractor implemented in the code is a web application built on F
     - Create a Cloud Storage bucket where images are stored (Set `bucket_name`)
 5. **BigQuery**
     - Create a BigQuery dataset and table for user and image information.
-    - Update `dataset_id` and `table_id` variables accordingly
+    - Create two tables, one for user(Username,Password) and another for images(filename,extracted_text, user_id).
 6. **Dependencies**
     - Install Python dependencies by running the following command in the project directory:
         ```bash
@@ -50,7 +50,7 @@ The image text extractor implemented in the code is a web application built on F
 - Following these steps with the code running will allow the user to use the image text extraction web application locally
 
 ## Flask Application Structure
-- *Put a picture of the structure here*
+ - 
 
 ## System Architecture and Overview
 ### 1. Web Application Architecture
