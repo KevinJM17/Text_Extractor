@@ -1,0 +1,9 @@
+Flask
+Flask-Bcrypt
+Flask-Login
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-vision
+Werkzeug
+Pillow
+gunicorn

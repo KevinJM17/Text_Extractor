@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "spry-metric-406512",
+  "private_key_id": "24619b552fe282539318726b3d89be62dba89a6a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPgcW7T1P5SaD1\nomz3i+s+Y4Va6AjW1ezRfJC/iQwdHlnbut0cBAQ6wSvfU/ggl6imdq3vMuUDe1sR\nE90UHezlObF9NhcuL2w7Ri8hOn+dl9Fk4yq0UcBq2BHn1n2+SxdaaA4p1AcDYurD\nxF4zahlPi2ZEqWTSKPYoTpfenIxXwRPeHeVlbhYHq3l2wGUmGMSuDSz/SKzsOfbb\nYlRbqBG3sfs+l7zqF2WxSe9rgd8fp1cLLNuFZjZK/U+5/pUaq924N2OXDCotxedc\nmi8PJWgXn4U2DVHNsr9dkqMz/HHjG4xhVDTJWl8FqATfJpnAg3jyXHP/yhho7fxO\nwc0OjLYxAgMBAAECggEABDNH+d0+1RhfJZK524OCW3a/KcZfnDEnVQjZ4D9McK2U\nHfrce1Ql7wslznaMgqC0ax3ku1BLKh9MzrAdBmMWAq4TUw8Xndk9vYeRUX4fC4Ts\nwttleIu+2j8QLsUv3uy0ppI5MucjBunOOwlm+UcxAzY5GbKhvLHTUEyfmZXjA4j8\nGbFkDr9/RkQo1yvxM47Yb9edxvggxBUCHvaG0i3xMAEyEu12IZ4J9LC6FqT+Ey1S\nE1xL+xVx11hKx36ieQOYkAWNq2XzOOWEAAhFx9jUJ7zZKVtcImdaRNXYdV+huKEQ\nkyNN0pbqUs9GXQ0yMjSrcm4rpo1XFe0QqcVNjnVgWQKBgQDAU+UvYIqmYx6KSjtG\nG2X0i/cufcuJqwCv8ewXcraDhWcUsNF4p2J/J7Gq9G/WvwiKSWiNkX6vdzVsRcgd\nrRGxf/h9TNt1+cBuTzAYV58u0ICU3RY8cAUqB64OAZVXh+s5kV5XWejxIkaJoSNe\njICncbxeDfpGKGIOBrPRdlVzaQKBgQC/BDsiqytsKPMU/5W2+8oYtvkrAhaPhbIN\nMJBoZpvtNuVSt1HT8fyEyyGvsBigVHekBcORxVZpkSDtX/6Hn5hk6ZiB+CRmCiO0\nKB6gaD8yMKvx6oPJxAq/TLPQlY4y8y5tiFC16DaDfrqz4/WkIBJHcvxfRa+M87Rt\nzNVCKhr7iQKBgQC6wfzAF7grP/7M/K44Mqy7Xhqlu6OkyDe/omTGlC7k4eqp7dVK\nmweLP+lHf1sGpbROTGBJcCobit+GhvB+2KtguEp8qeBF3ELfGugyCwvZMsBZTaKl\nB4YMPS7oDOOO/r4MxbtdiUIovUbPqHim/DqF3myyzFHmRJqK0jlUwdrSWQKBgHEr\nZI3Js9RE/p+2PVFIJBg4b69XcV5e63p9B1GTWVZVa9Bx4/0aJW3Xm4GnZy+2W5vF\n/nRi4itxXHzGntpjZ7qB22VFSutZnoWiL2MB4E8wHu8Y7jOf/m4QV4iA0trE0QD7\n/jWH+qQ1dRAXQvWWOr4yFeusMbHkwUU8Uiz9HTdhAoGABMMooUS+XHRFoAeO/RD3\nS/yAYYdg6Pec7rifaBSektrHefln/8oynAPSInvMopK89vbBM/yan8gRfvA9npkR\nfuwhUPVRA1XH9VUHBsPLXp/f1oz1C+VGEGUVhofeG938YVn4RhBXSA1bkYZn91lr\n72XSwFSMsHcG1RgFLVMShPg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-and-firestore@spry-metric-406512.iam.gserviceaccount.com",
+  "client_id": "111004441159402531523",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-and-firestore%40spry-metric-406512.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
