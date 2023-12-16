@@ -17,8 +17,13 @@ The image text extractor implemented in the code is a web application built on F
     - Create a BigQuery dataset and table for user and image information.
     - Create two tables, one for user(Username,Password) and another for images(filename,extracted_text, user_id).
 6. **Dependencies**
-    - Install Python dependencies by running the following command in the project directory:
+    - Install Python dependencies on a virtual environment by running the following command in the project directory:
         ```bash
+        sudo apt-get update
+        sudo apt-get install python3.8-venv
+
+        python3 -m venv venv
+        source venv/bin/activate
         pip install -r requirements.txt
         ```
 
