@@ -138,17 +138,27 @@ The project is deployed on GCP and can be accessed by using the link in your web
 ## Application Overview
 - Login page
 ![alt img](README_Images/login.jpg)
+
 - Register page
 ![alt img](README_Images/register.jpg)
+
 - Index page
 ![alt img](README_Images/index.jpg)
+
 - Uploaded image
 ![alt img](README_Images/uploadedidx.jpg)
+
 - View page
 ![alt img](README_Images/view.jpg)
+
 - Edit page
 ![alt img](README_Images/edit.jpg)
-- Users database (storing usernames and hashed password)
+
+- BigQuery - Users database (storing usernames and hashed password)
 ![alt img](README_Images/users_table.jpg)
-- Images database (storing filename, extracted text and userid)
+
+- BigQuery - Images database (storing filename, extracted text and userid)
 ![alt img](README_Images/images_table.jpg)
+
+- Google Cloud Storage bucket (storing all the uploaded images)
+![alt img](README_Images/bucket.jpg)
