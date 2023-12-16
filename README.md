@@ -58,7 +58,7 @@ The project is deployed on GCP and can be accessed by using the link in your web
 - Following these steps with the code running will allow the user to use the image text extraction web application locally
 
 ## Flask Application Structure
- - ![alt img](README_Images/flask_structure.jpg)
+![alt img](README_Images/flask_structure.jpg)
 
 ## System Architecture and Overview
 ### 1. Web Application Architecture
@@ -136,4 +136,19 @@ The project is deployed on GCP and can be accessed by using the link in your web
 - Handles the upload of images and triggers the extraction of text using the Vision API. Extracted text and image metadata are stored in BigQuery.
 
 ## Application Overview
-- *Describe the website with images*
+- Login page
+![alt img](README_Images/login.jpg)
+- Register page
+![alt img](README_Images/register.jpg)
+- Index page
+![alt img](README_Images/index.jpg)
+- Uploaded image
+![alt img](README_Images/uploadedidx.jpg)
+- View page
+![alt img](README_Images/view.jpg)
+- Edit page
+![alt img](README_Images/edit.jpg)
+- Users database (storing usernames and hashed password)
+![alt img](README_Images/users_table.jpg)
+- Images database (storing filename, extracted text and userid)
+![alt img](README_Images/images_table.jpg)
