@@ -41,6 +41,9 @@ The image text extractor implemented in the code is a web application built on F
     ```
 3. Visit [http://localhost:5000](http://localhost:5000) in your web browser
 
+## Accessing the website
+    The project is deployed on GCP and can be accessed by using the link in your web browser: http://35.246.80.223:5000/
+
 ## Usage
 1. Register with a new user
 2. Log in with the registered user
