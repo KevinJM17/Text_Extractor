@@ -7,3 +7,4 @@ google-cloud-vision
 Werkzeug
 Pillow
 gunicorn
+grpcio
