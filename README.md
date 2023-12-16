@@ -37,7 +37,7 @@ The image text extractor implemented in the code is a web application built on F
 1. Open a terminal in the project directory
 2. Run the following command to start the Flask application:
     ```bash
-    python app.py
+    python3 app.py
     ```
 3. Visit [http://localhost:5000](http://localhost:5000) in your web browser
 
@@ -58,7 +58,7 @@ The project is deployed on GCP and can be accessed by using the link in your web
 - Following these steps with the code running will allow the user to use the image text extraction web application locally
 
 ## Flask Application Structure
- - 
+ - ![alt img](README_Images/flask_structure.jpg)
 
 ## System Architecture and Overview
 ### 1. Web Application Architecture
